@@ -1,0 +1,28 @@
+
+Task Description:
+
+Your task is to create 3 pages for Friidesign company. There are only few challenges especially for CSS & JavaScript.
+In this task, you can use your own CSS +  SimpleGrid.io CSS library.
+
+On page 2, make sure that the price is calculated according to the quantity.
+
+Finally, remember that the website must be responsive on all devices. In fact, We did not include any design for mobile version, 
+but we would like you to use your own skills and imagination to make it Mobile responsive as well.
+
+If you have any question, please do not hesitate to contact us. GOOD LUCK!
+
+Regards,
+Youssef Zerkani
+IT - Manager
+
+
+More Infos:
+-----------
+font-family  ---- Roboto 
+colors  #ff4169 ;  #fff ; grey
+font-weight: bold;
+video link : https://www.youtube.com/watch?time_continue=1&v=nye4eAjtwT0
+Use FontAwesome for Icons.
+css library : http://simplegrid.io/
+
+
