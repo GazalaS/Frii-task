@@ -21,10 +21,27 @@ svg {
   /* set height to pixels if you want angle to change with screen width */
 }
 
+hr {
+    border-width: 2px;
+}
+
 .text-color{
   font: "Roboto";
   color: #ff4169;
   font-size: 18px;
+  font-weight: bold;
+}
+
+.text-grey{
+  font: "Roboto";
+  color: #A9A9A9;
+  font-size: 16px;
+}
+
+.text-grey-big{
+  font: "Roboto";
+  color: #A9A9A9;
+  font-size: 24px;
   font-weight: bold;
 }
 
