@@ -1,2 +1,2 @@
 # Frii-task
-CSS, JavaScript and BootStrap
+UI Design using HTML, CSS, JavaScript, SimpleGrid.io and BootStrap
